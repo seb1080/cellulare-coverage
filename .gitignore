@@ -1,0 +1,16 @@
+# System files
+.DS_Store
+Thumbs.db
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Data science
+dataSources/*
+*/Qgis
+*/rawData/**/*
+*/outputData
+*.qgz
+*.gpkg
