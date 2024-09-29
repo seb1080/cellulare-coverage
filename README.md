@@ -28,7 +28,8 @@ Numéro de zonage: H-9509
 
 ## Data sources
 
-- [OpenCellId](https://opencellid.org/downloads.php?token=pk.1da23ffb013861e4a1f48013212eadc0)
+- [OpenCellId raw data](https://opencellid.org/downloads.php?token=pk.1da23ffb013861e4a1f48013212eadc0)
+- [Data dictionary](https://wiki.opencellid.org/wiki/API#Filtering_of_data)
 
 - [Répertoire des municipalités](https://www.donneesquebec.ca/recherche/dataset/repertoire-des-municipalites-du-quebec)
 
