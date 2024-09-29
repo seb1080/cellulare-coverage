@@ -9,6 +9,7 @@ Thumbs.db
 
 # Data science
 dataSources/*
+dataOutput/*
 */Qgis
 */rawData/**/*
 */outputData
